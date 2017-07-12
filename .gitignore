@@ -7,3 +7,6 @@ presupuesto-*
 /.sass-cache
 .env
 budget_app/templates
+local_settings.py
+local_settings.pyc
+run.pid
